@@ -45,7 +45,7 @@ URL-Shortner/
 └── package.json # Project configuration and dependencies
 ```
 
----
+
 
 
 ---
@@ -58,9 +58,26 @@ git clone https://github.com/yourusername/url-shortener.git
 cd url-shortener
 ```
 
+
+
 ### Install Dependencies
 ```bash
 npm install
 ```
 
 ### Set Up Environment Variables
+```bash
+npm start
+```
+
+---
+
+## 🧠 Tech Stack
+
+-  **Backend:** Node.js, Express.js  
+-  **Database:** MongoDB with Mongoose  
+-  **Authentication:** JSON Web Tokens (JWT)  
+-  **Frontend (Optional):** EJS / React / HTML  
+
+
+
